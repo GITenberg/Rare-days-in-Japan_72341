@@ -1,5 +1,8 @@
 _repo: Rare-days-in-Japan_72341
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72341-h/images/cover.jpg
 creator:
   author:
     agent_name: Ladd, George Trumbull
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56612
     wikipedia: https://en.wikipedia.org/wiki/George_Trumbull_Ladd
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72341#Rare-days-in-Japan
 gutenberg_issued: '2023-12-06'
 identifiers:
   gutenberg: '72341'
